@@ -66,7 +66,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="public-depan/img/portfolio/cabin.png" alt="">
+              <img class="img-fluid" src="public-depan/img/portfolio/mamed.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -76,7 +76,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="public-depan/img/portfolio/cake.png" alt="">
+              <img class="img-fluid" src="public-depan/img/portfolio/arif.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -86,7 +86,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="public-depan/img/portfolio/circus.png" alt="">
+              <img class="img-fluid" src="public-depan/img/portfolio/kabul.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -96,9 +96,9 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="public-depan/img/portfolio/game.png" alt="">
+              <img class="img-fluid" src="public-depan/img/portfolio/afriza.png" alt="">
             </a>
-          </div>
+          </div>{{-- 
           <div class="col-md-6 col-lg-4">
             <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-5">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
@@ -118,7 +118,7 @@
               </div>
               <img class="img-fluid" src="public-depan/img/portfolio/submarine.png" alt="">
             </a>
-          </div>
+          </div> --}}
         </div>
       </div>
     </section>
