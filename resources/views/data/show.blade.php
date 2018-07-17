@@ -1,10 +1,10 @@
 @extends('data.layouts.master')
 @section('content')
 
-	<a class="btn btn-primary" href="{{ Route('create') }}">Tambah Data</a>
+	<a class="btn btn-warning" href="{{ Route('create') }}">Tambah Data</a>
 	<br><br>
 
-	<table class="table table-bordered table-responsive">
+	<table class="table well well-lg">
     <thead>
       <tr>
         <th>Nama</th>

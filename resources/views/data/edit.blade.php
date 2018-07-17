@@ -3,7 +3,7 @@
   <form class="form-horizontal" action="{{ Route('submitedit', ['id' => $rental->id]) }}" method="post">
     <fieldset>
       @csrf
-      <div class="form-group">
+     <div class="form-group">
         <label class="col-md-2 control-label" for="Nama">Nama</label>
         <div class="col-md-6">
           <input name="nama" type="text" placeholder="Nama" class="form-control" value="{{$rental->nama}}">

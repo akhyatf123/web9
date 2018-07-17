@@ -15,9 +15,8 @@
         <hr>
           <nav class="navbar">
 
-            <ul class="nav navbar-nav">
-              <li><a href="{{ Route('index') }}">Data Barang</a></li>
-              <li><a href="#">Keterangan</a></li>
+            <ul class="nav navbar-brand">
+              <li><a href="{{ Route('index') }}">Home</a></li>
 
             </ul>
           </nav>
